@@ -1,0 +1,21 @@
+{
+  "name": "proculite-service",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StrajnarFilip/proculite-service.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/StrajnarFilip/proculite-service/issues"
+  },
+  "homepage": "https://github.com/StrajnarFilip/proculite-service#readme",
+  "description": "",
+  "type": "module"
+}
